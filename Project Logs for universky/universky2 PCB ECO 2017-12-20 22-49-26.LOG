@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=3.3V Pin=C19-1
+Removed Pin From Net: NetName=3.3V Pin=P13-1
+Removed Pin From Net: NetName=3.3V Pin=R7-1
+Removed Pin From Net: NetName=3.3V Pin=R8-1
+Removed Pin From Net: NetName=SPI2_SCK Pin=U3-1
+Removed Pin From Net: NetName=SPI2_MOSI Pin=U3-2
+Removed Pin From Net: NetName=SPI2_CS3 Pin=U3-3
+Removed Pin From Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=5V Pin=C19-1
+Added Pin To Net: NetName=5V Pin=P13-1
+Added Pin To Net: NetName=5V Pin=R7-1
+Added Pin To Net: NetName=5V Pin=R8-1
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=SPI2_CS3 Pin=U3-2
+Added Pin To Net: NetName=SPI2_MOSI Pin=U3-3
+Added Pin To Net: NetName=SPI2_SCK Pin=U3-4

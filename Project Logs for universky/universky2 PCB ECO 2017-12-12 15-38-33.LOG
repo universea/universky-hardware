@@ -1,0 +1,180 @@
+Removed Pin From Net: NetName=GND Pin=*1-2
+Removed Pin From Net: NetName=AGND Pin=C11-1
+Removed Pin From Net: NetName=VREF+ Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=PC5_POWER_INPUT Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=5V Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=3.3V Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Pin From Net: NetName=GND Pin=C31-1
+Removed Pin From Net: NetName=3.3V Pin=C31-2
+Removed Pin From Net: NetName=GND Pin=C32-1
+Removed Pin From Net: NetName=3.3V Pin=C33-1
+Removed Pin From Net: NetName=GND Pin=C33-2
+Removed Pin From Net: NetName=GND Pin=D4-1
+Removed Pin From Net: NetName=PE3 Pin=R3-1
+Removed Pin From Net: NetName=PE2 Pin=R3-2
+Removed Pin From Net: NetName=PE1 Pin=R3-3
+Removed Pin From Net: NetName=PE0 Pin=R3-4
+Removed Pin From Net: NetName=PC5_POWER_INPUT Pin=R6-2
+Removed Pin From Net: NetName=3.3V Pin=R7-1
+Removed Pin From Net: NetName=VREF+ Pin=R7-2
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=R9-1
+Removed Pin From Net: NetName=AGND Pin=R9-2
+Removed Pin From Net: NetName=5V Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=R13-2
+Removed Pin From Net: NetName=I2C1_SDA Pin=R18-1
+Removed Pin From Net: NetName=3.3V Pin=R18-2
+Removed Pin From Net: NetName=I2C1_SCL Pin=R19-1
+Removed Pin From Net: NetName=3.3V Pin=R19-2
+Removed Pin From Net: NetName=VREF+ Pin=U1-1
+Removed Pin From Net: NetName=VREF+ Pin=U1-2
+Removed Pin From Net: NetName=AGND Pin=U1-3
+Removed Pin From Net: NetName=3.3V Pin=U2-2
+Removed Pin From Net: NetName=3.3V Pin=U3-1
+Removed Pin From Net: NetName=3.3V Pin=U3-2
+Removed Pin From Net: NetName=GND Pin=U3-3
+Removed Pin From Net: NetName=GND Pin=U3-5
+Removed Pin From Net: NetName=I2C1_SDA Pin=U3-7
+Removed Pin From Net: NetName=I2C1_SCL Pin=U3-8
+Removed Pin From Net: NetName=3.3V Pin=U4-8
+Removed Pin From Net: NetName=GND Pin=U4-9
+Removed Pin From Net: NetName=GND Pin=U4-11
+Removed Pin From Net: NetName=3.3V Pin=U4-13
+Removed Pin From Net: NetName=GND Pin=U4-18
+Removed Pin From Net: NetName=I2C1_SCL Pin=U4-23
+Removed Pin From Net: NetName=I2C1_SDA Pin=U4-24
+Removed Member From Class: ClassName=universky-POWER Member=*1
+Removed Member From Class: ClassName=universky-POWER Member=*1
+Removed Member From Class: ClassName=universky-POWER Member=C16
+Removed Member From Class: ClassName=universky-POWER Member=C17
+Removed Member From Class: ClassName=universky-POWER Member=C18
+Removed Member From Class: ClassName=universky-POWER Member=C19
+Removed Member From Class: ClassName=universky-POWER Member=C20
+Removed Member From Class: ClassName=universky-POWER Member=C21
+Removed Member From Class: ClassName=universky-POWER Member=C22
+Removed Member From Class: ClassName=universky-SENSOR Member=C29
+Removed Member From Class: ClassName=universky-SENSOR Member=C31
+Removed Member From Class: ClassName=universky-SENSOR Member=C32
+Removed Member From Class: ClassName=universky-SENSOR Member=C33
+Removed Member From Class: ClassName=universky-POWER Member=D5
+Removed Member From Class: ClassName=universky-POWER Member=D6
+Removed Member From Class: ClassName=universky-POWER Member=L1
+Removed Member From Class: ClassName=universky-POWER Member=R7
+Removed Member From Class: ClassName=universky-POWER Member=R8
+Removed Member From Class: ClassName=universky-POWER Member=R9
+Removed Member From Class: ClassName=universky-POWER Member=R10
+Removed Member From Class: ClassName=universky-POWER Member=R11
+Removed Member From Class: ClassName=universky-POWER Member=R12
+Removed Member From Class: ClassName=universky-POWER Member=R13
+Removed Member From Class: ClassName=universky-POWER Member=R14
+Removed Member From Class: ClassName=universky-POWER Member=R15
+Removed Member From Class: ClassName=universky-SENSOR Member=R18
+Removed Member From Class: ClassName=universky-SENSOR Member=R19
+Removed Member From Class: ClassName=universky-POWER Member=U1
+Removed Member From Class: ClassName=universky-SENSOR Member=U5
+Change Component DesignItemId : Designator=U3 Old DesignItemId=MS5611 New DesignItemId=SPL06_001
+Change Component Footprint: Designator=U3 Old Footprint=QFN_8 New Footprint=SPL06_001
+Change Component Comment : Designator=U3 Old Comment=MS5611 New Comment=SPL06_001
+Change Component Designator: OldDesignator=C15 NewDesignator=C11
+Change Component Designator: OldDesignator=C19 NewDesignator=C12
+Change Component Designator: OldDesignator=C20 NewDesignator=C13
+Change Component Designator: OldDesignator=C21 NewDesignator=C14
+Change Component Designator: OldDesignator=C22 NewDesignator=C15
+Change Component Designator: OldDesignator=C23 NewDesignator=C18
+Change Component Designator: OldDesignator=C24 NewDesignator=C16
+Change Component Designator: OldDesignator=C25 NewDesignator=C17
+Change Component Designator: OldDesignator=C26 NewDesignator=C19
+Change Component Designator: OldDesignator=C28 NewDesignator=C20
+Change Component Designator: OldDesignator=C30 NewDesignator=C21
+Change Component Designator: OldDesignator=C34 NewDesignator=C28
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=D5 NewDesignator=D3
+Change Component Designator: OldDesignator=D6 NewDesignator=D4
+Change Component Designator: OldDesignator=R14 NewDesignator=R5
+Change Component Designator: OldDesignator=R15 NewDesignator=R6
+Change Component Designator: OldDesignator=R16 NewDesignator=R7
+Change Component Designator: OldDesignator=R17 NewDesignator=R8
+Change Component Designator: OldDesignator=R20 NewDesignator=R9
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U5 NewDesignator=U4
+Added Component: Designator=C22(0603_C)
+Added Component: Designator=C23(0603_C)
+Added Component: Designator=C24(0603_C)
+Added Component: Designator=C25(0603_C)
+Added Component: Designator=C26(0603_C)
+Added Component: Designator=U2(QFN_24)
+Added Pin To Net: NetName=3.3V Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=3.3V Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=3.3V Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=3.3V Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=3.3V Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=PC5_POWER_INPUT Pin=P1-1
+Added Pin To Net: NetName=PE0 Pin=R3-1
+Added Pin To Net: NetName=PE1 Pin=R3-2
+Added Pin To Net: NetName=PE2 Pin=R3-3
+Added Pin To Net: NetName=PE3 Pin=R3-4
+Added Pin To Net: NetName=SPI2_SCK Pin=U1-4
+Added Pin To Net: NetName=SPI2_MOSI Pin=U1-5
+Added Pin To Net: NetName=SPI2_MISO Pin=U1-6
+Added Pin To Net: NetName=3.3V Pin=U2-8
+Added Pin To Net: NetName=SPI2_MISO Pin=U2-9
+Added Pin To Net: NetName=GND Pin=U2-11
+Added Pin To Net: NetName=3.3V Pin=U2-13
+Added Pin To Net: NetName=GND Pin=U2-18
+Added Pin To Net: NetName=SPI2_SCK Pin=U2-23
+Added Pin To Net: NetName=SPI2_MOSI Pin=U2-24
+Added Pin To Net: NetName=SPI2_SCK Pin=U3-1
+Added Pin To Net: NetName=SPI2_MOSI Pin=U3-2
+Added Pin To Net: NetName=SPI2_MISO Pin=U3-5
+Added Pin To Net: NetName=3.3V Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=3.3V Pin=U3-8
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetD4_1
+Added Pin To Net: NetName=MPU_INT Pin=B1-88
+Added Pin To Net: NetName=MPU_INT Pin=U2-12
+Added Net: Name=MPU_INT
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=NetC27_2 Pin=U2-10
+Added Net: Name=NetC27_2
+Added Pin To Net: NetName=PE4 Pin=B1-3
+Added Net: Name=PE4
+Added Pin To Net: NetName=SPI2_CS1 Pin=B1-17
+Added Pin To Net: NetName=SPI2_CS1 Pin=U2-22
+Added Net: Name=SPI2_CS1
+Added Pin To Net: NetName=SPI2_CS2 Pin=B1-15
+Added Pin To Net: NetName=SPI2_CS2 Pin=U1-2
+Added Net: Name=SPI2_CS2
+Added Pin To Net: NetName=SPI2_CS3 Pin=B1-16
+Added Pin To Net: NetName=SPI2_CS3 Pin=U3-3
+Added Net: Name=SPI2_CS3
+Added Pin To Net: NetName=TIM2_CH2 Pin=B1-89
+Added Net: Name=TIM2_CH2
+Added Pin To Net: NetName=TIM9_CH1 Pin=B1-4
+Added Net: Name=TIM9_CH1
+Added Pin To Net: NetName=TIM9_CH2 Pin=B1-5
+Added Net: Name=TIM9_CH2
+Added Member To Class: ClassName=universky-SENSOR Member=Component C22 Cap
+Added Member To Class: ClassName=universky-SENSOR Member=Component C23 Cap
+Added Member To Class: ClassName=universky-SENSOR Member=Component C24 Cap
+Added Member To Class: ClassName=universky-SENSOR Member=Component C25 Cap
+Added Member To Class: ClassName=universky-SENSOR Member=Component C26 Cap
+Added Member To Class: ClassName=universky-CONNECTOR Member=Component P3 10KÅÅ×è
+Added Member To Class: ClassName=universky-SENSOR Member=Component U2 ICM20689
+Added Room: Name=universky-CONNECTOR
+Added Room: Name=universky-MCU
+Added Room: Name=universky-POWER
+Added Room: Name=universky-SENSOR

@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=universky-SENSOR Member=C15
+Removed Member From Class: ClassName=universky-SENSOR Member=C16
+Removed Member From Class: ClassName=universky-SENSOR Member=C17
+Removed Member From Class: ClassName=universky-SENSOR Member=C18
+Removed Member From Class: ClassName=universky-SENSOR Member=C19
+Change Component Footprint: Designator=SWD1 Old Footprint=USB_Micro New Footprint=USB_M
+Change Component Footprint: Designator=USB1 Old Footprint=USB_Micro New Footprint=USB_M
+Added Member To Class: ClassName=universky-POWER Member=Component C15 Cap
+Added Member To Class: ClassName=universky-SENSOR Member=Component C22 Cap
+Added Member To Class: ClassName=universky-SENSOR Member=Component C23 Cap
+Added Member To Class: ClassName=universky-SENSOR Member=Component C24 Cap
+Added Member To Class: ClassName=universky-SENSOR Member=Component C25 Cap
+Added Member To Class: ClassName=universky-SENSOR Member=Component C26 Cap

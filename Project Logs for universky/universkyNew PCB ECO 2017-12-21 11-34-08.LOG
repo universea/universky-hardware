@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=NetB1_14 Pin=R2-1
+Removed Pin From Net: NetName=3.3V Pin=R2-2
+Removed Pin From Net: NetName=PE0 Pin=R3-1
+Removed Pin From Net: NetName=PE1 Pin=R3-2
+Removed Pin From Net: NetName=PE2 Pin=R3-3
+Removed Pin From Net: NetName=PE3 Pin=R3-4
+Removed Pin From Net: NetName=NetD1_4 Pin=R3-5
+Removed Pin From Net: NetName=NetD1_3 Pin=R3-6
+Removed Pin From Net: NetName=NetD1_1 Pin=R3-7
+Removed Pin From Net: NetName=NetD2_2 Pin=R3-8
+Removed Pin From Net: NetName=OTG_FS_DM Pin=USB1-2
+Removed Pin From Net: NetName=OTG_FS_DP Pin=USB1-3
+Removed Member From Class: ClassName=universky-POWER Member=C16
+Removed Member From Class: ClassName=universky-POWER Member=C17
+Removed Member From Class: ClassName=universky-CONNECTOR Member=C20
+Removed Member From Class: ClassName=universky-POWER Member=R7
+Change Component DesignItemId : Designator=R3 Old DesignItemId=Header 4X2A New DesignItemId=RES_10K
+Change Component Footprint: Designator=R3 Old Footprint=HDR_R_4 New Footprint=0603_R
+Change Component Comment : Designator=R3 Old Comment=100ลลื่ New Comment=RES_10K
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R11
+Added Component: Designator=R4(0603_R)
+Added Component: Designator=R5(HDR_R_4)
+Added Pin To Net: NetName=OTG_FS_DM Pin=R2-2
+Added Pin To Net: NetName=OTG_FS_DP Pin=R3-2
+Added Pin To Net: NetName=NetB1_14 Pin=R4-1
+Added Pin To Net: NetName=3.3V Pin=R4-2
+Added Pin To Net: NetName=PE0 Pin=R5-1
+Added Pin To Net: NetName=PE1 Pin=R5-2
+Added Pin To Net: NetName=PE2 Pin=R5-3
+Added Pin To Net: NetName=PE3 Pin=R5-4
+Added Pin To Net: NetName=NetD1_4 Pin=R5-5
+Added Pin To Net: NetName=NetD1_3 Pin=R5-6
+Added Pin To Net: NetName=NetD1_1 Pin=R5-7
+Added Pin To Net: NetName=NetD2_2 Pin=R5-8
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=USB1-2
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=USB1-3
+Added Net: Name=NetR3_1
+Added Member To Class: ClassName=universky-POWER Member=Component C12 Cap
+Added Member To Class: ClassName=universky-CONNECTOR Member=Component C16 Cap
+Added Member To Class: ClassName=universky-SENSOR Member=Component C20 Cap
+Added Member To Class: ClassName=universky-MCU Member=Component R5 100ลลื่
+Added Member To Class: ClassName=universky-MCU Member=Component R6 Res2
+Added Member To Class: ClassName=universky-CONNECTOR Member=Component R10 Res2
+Added Member To Class: ClassName=universky-SENSOR Member=Component R11 Res2
